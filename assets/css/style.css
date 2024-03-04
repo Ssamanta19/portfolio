@@ -26,6 +26,9 @@ h6 {
   color: var(--color-heading);
   font-weight: 700;
 }
+p{
+  color: #fbfbfb;
+}
 
 a {
   text-decoration: none;
